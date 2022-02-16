@@ -1,7 +1,7 @@
 --[NOTE: This document will be updated every time Stratos X is down, updating or is updated or is Patched. Check in here for Update & Patch Info.]--
 
 Latest Stable Build of Stratos X: 
-V: 1.2a
+V: 1.2b
 
 API Patch Status:
 
@@ -9,4 +9,12 @@ EasyExploits API - [Working] | Report as of: [2/16/2022]
 WeAreDevs API - [Working] | Report as of: [2/16/2022]
 KRNL API - [N/A]
 
-Next Update is V: 1.2b!
+Next Update is V: 1.3!
+
+              |Update Logs|
+____________________________________________
+|*New Redesigned UI!                       |
+|*Fixed commonly know Bugs!                |
+|*Overhauled Bootstrapper UI and Functions!|
+|*Patched SS Issue.                        |
+|__________________________________________|
